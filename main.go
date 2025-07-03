@@ -13,6 +13,7 @@ func Fruits() {
 		"apple":  5,
 		"banana": 3,
 		"cherry": 8,
+		"date":   2,
 	}
 
 	// Iterate over the map using a for range loop
