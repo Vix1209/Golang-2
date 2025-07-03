@@ -1,8 +1,9 @@
-package main
+package golang2
 
 import "fmt"
 
-func main() {
+func Golang2() {
+
 	// Define a map with string keys and integer values
 	myMap := map[string]int{
 		"apple":  5,
