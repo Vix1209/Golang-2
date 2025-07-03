@@ -1,1 +1,1 @@
-This is a Golang Project. Learnign Go modules
+This is a Golang Project. Learning Go modules
