@@ -2,7 +2,7 @@ package golang2
 
 import "fmt"
 
-func Golang2() {
+func Fruits() {
 
 	// Define a map with string keys and integer values
 	myMap := map[string]int{
