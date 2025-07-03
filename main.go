@@ -1,6 +1,10 @@
 package golang2
 
-import "fmt"
+import (
+	"fmt"
+
+	golang3 "github.com/Vix1209/Golang-3"
+)
 
 func Fruits() {
 
@@ -16,4 +20,6 @@ func Fruits() {
 		fmt.Printf("Key: %s, Value: %d\n", key, value)
 	}
 	fmt.Println("Iteration complete.")
+
+	golang3.DirectDependency()
 }
