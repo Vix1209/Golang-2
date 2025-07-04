@@ -3,7 +3,7 @@ package package1
 import (
 	"fmt"
 
-	golang2 "github.com/Vix1209/Golang-2"
+	"github.com/Vix1209/Golang-2/golang2"
 )
 
 func Package1() {
